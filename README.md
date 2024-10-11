@@ -21,7 +21,7 @@ Comecei minha jornada na programação com um forte interesse em matemática e f
 
 ### 💼 Projetos Recentes
 
--- **Repositório de Codeforces:** Criação de um repositório no GitHub onde publico minhas soluções para problemas de programação competitiva do Codeforces, organizando e documentando cada solução para facilitar o aprendizado e a revisão.
+- **Repositório de Codeforces:** Criação de um repositório no GitHub onde publico minhas soluções para problemas de programação competitiva do Codeforces, organizando e documentando cada solução para facilitar o aprendizado e a revisão.
 - **Teste de Digitação (Palavras por Minuto):** Desenvolvimento de um programa usando a biblioteca curses em Python, que calcula a taxa de palavras por minuto e oferece feedback em tempo real sobre os erros de digitação, ajudando a melhorar a velocidade e precisão dos usuários.
 - **TikTok Bot com PyAutoGUI:** Criação de um bot automatizado usando PyAutoGUI para interagir com a plataforma TikTok. O bot realiza ações como upload de vídeos e interações básicas, utilizando imagens armazenadas em uma pasta específica para reconhecimento de elementos na tela e execução de comandos.
 ---
