@@ -2,8 +2,7 @@
 
 **`Digital Craftsman (Developer/Researcher/Creator)`**
 
-Minha jornada começou com a programação competitiva, onde desenvolvi um grande interesse em resolver problemas complexos e desafiadores. Com uma paixão por matemática, automações, desenvolvimento de circuitos e robótica, estou sempre em busca de aplicar meus conhecimentos em projetos práticos que possam impactar positivamente o mundo ao meu redor. Atualmente, estou explorando diferentes áreas de programação, eletrônica e ciência de dados, com um foco especial em robótica e sistemas embarcados.
-
+Comecei minha jornada na programação com um forte interesse em matemática e física, aplicando esse conhecimento no desenvolvimento de soluções com Arduino e prototipagem de hardware. Desde então, estou constantemente explorando novas tecnologias e buscando maneiras de aplicar minhas habilidades em projetos que causam impacto.
 ---
 
 ### 🧰 Linguagens e Ferramentas
@@ -14,6 +13,10 @@ Minha jornada começou com a programação competitiva, onde desenvolvi um grand
 <br />
 
 #
+### 🚀 Linguagens Mais Usadas
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=edu92337&layout=compact&theme=gruvbox)
+
 
 ### 💼 Projetos Recentes
 
