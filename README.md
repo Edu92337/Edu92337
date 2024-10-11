@@ -1,7 +1,5 @@
 # 🏄‍♂️ Eduardo Augusto 
 
-**`Digital Craftsman (Developer/Researcher/Creator)`**
-
 Comecei minha jornada na programação com um forte interesse em matemática e física, aplicando esse conhecimento no desenvolvimento de soluções com Arduino e prototipagem de hardware. Desde então, estou constantemente explorando novas tecnologias e buscando maneiras de aplicar minhas habilidades em projetos que causam impacto.
 ---
 
