@@ -1,6 +1,6 @@
 # 🏄‍♂️ Eduardo Augusto 
 
-**Entusiasta de Tecnologia: Programador | Pesquisador | Criador de Soluções**
+**Entusiasta de Tecnologia: Programador | Criador de Soluções**
 ---
 
 ### 🧰 Linguagens e Ferramentas
