@@ -1,6 +1,6 @@
 # 🏄‍♂️ Eduardo Augusto
 
-**Sou apaixonado por tecnologia e programação, sempre em busca de soluções criativas e eficientes para resolver problemas. Gosto de explorar novas ferramentas e aprender constantemente para aplicar em projetos práticos.**
+**Sou apaixonado por tecnologia e programação, sempre em busca de soluções criativas e eficientes para resolver problemas. Gosto de explorar novas ferramentas e aprender constantemente para aplicar em projetos.**
 
 ---
 
