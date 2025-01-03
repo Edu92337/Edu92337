@@ -1,7 +1,6 @@
 # 🏄‍♂️ Eduardo Augusto
 
-**Sou apaixonado por tecnologia e programação, sempre em busca de soluções criativas e eficientes para resolver problemas. Gosto de explorar novas ferramentas e aprender constantemente para aplicar em projetos.**
-
+**Estudante de Engenharia Elétrica com interesse em matemática, física e programação. Apaixonado por desafios e competições que estimulam a criatividade e a inovação.**
 ---
 
 ### 🧰 Linguagens e Ferramentas
@@ -27,7 +26,7 @@
 - **Tiktok-bot**: Bot automatizado para interagir com o TikTok usando PyAutoGUI.
 - **Navegador-de-Textos**: Navegador simples com listas duplamente encadeadas e curses.
 - **Shield-arduino**: Shield para Arduino com LCD e sensor ultrassônico.
-
+- **Simulador-de-Órbitas**:Simulação de órbitas gravitacionais com Python e Pygame.
 ---
 
 ### 📊 Estatísticas do GitHub
