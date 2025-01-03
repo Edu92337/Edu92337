@@ -1,6 +1,6 @@
 # 🏄‍♂️ Eduardo Augusto
 
-Estudante de Engenharia Elétrica com interesse em matemática, física e programação. Apaixonado por desafios e competições que estimulam a criatividade e a inovação.
+Estudante de Engenharia Elétrica com interesse em matemática, física e programação. Apaixonado por desafios e competições.
 ---
 
 ### 🧰 Linguagens e Ferramentas
