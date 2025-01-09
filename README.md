@@ -16,18 +16,6 @@ Estudante de Engenharia Elétrica com interesse em matemática, física e progra
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=edu92337&layout=compact&theme=gruvbox)
 
----
-
-### 💼 Projetos Recentes
-
-- **CodeForces**: Resolução de problemas de programação competitiva do Codeforces.
-- **Snake-Game**: Jogo da cobrinha implementado com Python e curses.
-- **Palavras-por-minuto**: Teste de digitação que calcula palavras por minuto com feedback em tempo real.
-- **Tiktok-bot**: Bot automatizado para interagir com o TikTok usando PyAutoGUI.
-- **Navegador-de-Textos**: Navegador simples com listas duplamente encadeadas e curses.
-- **Shield-arduino**: Shield para Arduino com LCD e sensor ultrassônico.
-- **Simulador-de-Órbitas**:Simulação de órbitas gravitacionais com Python e Pygame.
----
 
 ### 📊 Estatísticas do GitHub
 
