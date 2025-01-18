@@ -1,9 +1,9 @@
 # 🏄‍♂️ Eduardo Augusto
 
-Estudante de Engenharia Elétrica com interesse em matemática, física e programação. Apaixonado por desafios e competições.
+Electrical Engineering student with an interest in mathematics, physics, and programming. Passionate about problem-solving and competitions.
 ---
 
-### 🧰 Linguagens e Ferramentas
+### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
