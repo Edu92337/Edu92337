@@ -12,11 +12,11 @@ Electrical Engineering student with an interest in mathematics, physics, and pro
 
 ---
 
-### 🚀 Linguagens Mais Usadas
+### 🚀 Most Used Languages
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=edu92337&layout=compact&theme=gruvbox)
 
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Statistics
 
 ![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=edu92337&show_icons=true&theme=gruvbox)
