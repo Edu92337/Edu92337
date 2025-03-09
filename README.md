@@ -20,3 +20,4 @@ Electrical Engineering student with an interest in mathematics, physics, and pro
 ### 📊 GitHub Statistics
 
 ![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=edu92337&show_icons=true&theme=gruvbox)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edu92337&label=Profile%20views&color=0e75b6&style=flat" alt="edu92337" /> </p>
