@@ -1,6 +1,6 @@
 # 🏄‍♂️ Eduardo Augusto
 
-Electrical Engineering student with an interest in mathematics, physics, and programming. Passionate about problem-solving and competitions.
+Engineering student with an interest in mathematics, physics, and programming. Passionate about problem-solving and competitions.
 ---
 
 ### 🧰 Languages and Tools
