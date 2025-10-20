@@ -3,16 +3,14 @@
 # 🧠 Eduardo Augusto
 
 Computer Engineering student passionate about technology, problem-solving, and scientific exploration.  
-I enjoy working with artificial intelligence, data analysis, competitive programming, and system simulations.
-
+I'm currently studying artificial intelligence, data analysis, competitive programming, and system simulations.
 ---
 
 ## About Me
 
-- 🤔 Exploring new technologies and building meaningful projects.  
 - 🎓 Studying **Computer Engineering**.  
-- 💼 Focused on **Artificial Intelligence**, **Data Analysis**, and **Simulations**.  
-- 🌱 Learning more about **Python**, **C++**, and **Web Scraping**.
+- 💼 Focused on **Artificial Intelligence**, **Data Analysis**, **Web Scraping**, and **Simulations**.  
+- 🌱 Learning more about **Python**, **C++**
 
 ---
 
@@ -28,20 +26,6 @@ I enjoy working with artificial intelligence, data analysis, competitive program
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat)
 
-**Utilities**
-
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-
-**Development Tools**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-
----
 
 <a href="https://github.com/edu92337" title="Eduardo's GitHub Profile">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu92337&theme=dracula&show_icons=true" />
