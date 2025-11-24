@@ -2,7 +2,7 @@
 
 # 🧠 Eduardo Augusto
 
-Computer Engineering student passionate about technology, problem-solving, and scientific exploration.  
+Computer Engineering student passionate about technology, problem-solving, and science.  
 I'm currently studying artificial intelligence, data analysis, competitive programming, and system simulations.
 ---
 
