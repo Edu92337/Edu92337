@@ -1,42 +1,57 @@
 ![](https://komarev.com/ghpvc/?username=edu92337&color=006bed)
 
-# 🧠 Eduardo Augusto
+# Eduardo Augusto
 
-Computer Engineering student passionate about technology, problem-solving, and science.  
-I'm currently studying artificial intelligence, data analysis, competitive programming, and system simulations.
----
+Computer Engineering student at UFPB, Brazil.
 
-## About Me
+Building things in **competitive programming**, **blockchain**, **physics simulations**, **data**, and **AI**.
 
-- 🎓 Studying **Computer Engineering**.  
-- 💼 Focused on **Artificial Intelligence**, **Data Analysis**, **Web Scraping**, and **Simulations**.  
-- 🌱 Learning more about **Python**, **C++**
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/edu92337)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/edu92337/)
 
 ---
 
-## 🧰 Languages and Tools
+### Featured Projects
 
-**Programming and Data**
+**⛓️ Blockchain**
+- [`Simple_Bitcoin_Implementation`](https://github.com/Edu92337/Simple_Bitcoin_Implementation) — Bitcoin protocol implementation from scratch in C++
+- Contributing to [`bitcoin/bitcoin`](https://github.com/bitcoin/bitcoin) and [`braidpool`](https://github.com/braidpool/braidpool)
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat)
+**🌌 Physics Simulations**
+- [`Gravity_Simulation`](https://github.com/Edu92337/Gravity_Simulation) — N-body gravitational simulation
+- [`Orbit-Simulation-Verlet-Method`](https://github.com/Edu92337/Orbit-Simulation-Verlet-Method) — Orbital mechanics using Verlet integration
+- [`Particle-CollisionSimulation`](https://github.com/Edu92337/Particle-CollisionSimulation) — Particle collision physics
+- [`lidar-simulation`](https://github.com/Edu92337/lidar-simulation) — LiDAR sensor simulation
 
+**🧬 AI & Algorithms**
+- [`ga-maze-solver`](https://github.com/Edu92337/ga-maze-solver) — Genetic algorithm maze solver
+- [`image_reconstruction_genetic_algorithm`](https://github.com/Edu92337/image_reconstruction_genetic_algorithm) — Image reconstruction using GA
+- [`Ant-Colony-Simulation`](https://github.com/Edu92337/Ant-Colony-Simulation) — Ant colony optimization
 
-<a href="https://github.com/edu92337" title="Eduardo's GitHub Profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu92337&theme=dracula&show_icons=true" />
+**🏆 Competitive Programming**
+- [`CodeForces`](https://github.com/Edu92337/CodeForces) — My Codeforces solutions in C++
+
+---
+
+### Tech Stack
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
+<a href="https://github.com/edu92337">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edu92337&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu92337&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
 ---
 
-## 📫 Where to Find Me
+### Contact
 
-[![Linkedin](https://img.shields.io/badge/-Eduardo%20Augusto%20Lira%20de%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-augusto-almeida-lira-de-souza-73a53a332/)](https://www.linkedin.com/in/eduardo-augusto-almeida-lira-de-souza-73a53a332/)
-[![Gmail Badge](https://img.shields.io/badge/-eduz92337@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduz92337@gmail.com)](mailto:eduz92337@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/edu92337?label=follow&style=social)](https://github.com/edu92337)
-
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-augusto-almeida-lira-de-souza-73a53a332/)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:eduz92337@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/edu92337?label=Follow&style=social)](https://github.com/edu92337)
