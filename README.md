@@ -15,7 +15,7 @@ Building things in **competitive programming**, **blockchain**, **physics simula
 
 **🏆 Competitive Programming**
 - [`CodeForces`](https://github.com/Edu92337/CodeForces) — My Codeforces solutions in C++
-- 
+  
 **🌌 Physics Simulations**
 - [`Gravity_Simulation`](https://github.com/Edu92337/Gravity_Simulation) — N-body gravitational simulation
 - [`Orbit-Simulation-Verlet-Method`](https://github.com/Edu92337/Orbit-Simulation-Verlet-Method) — Orbital mechanics using Verlet integration
