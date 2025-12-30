@@ -15,7 +15,6 @@ Building things in **competitive programming**, **blockchain**, **physics simula
 
 **⛓️ Blockchain**
 - [`Simple_Bitcoin_Implementation`](https://github.com/Edu92337/Simple_Bitcoin_Implementation) — Bitcoin protocol implementation from scratch in C++
-- Contributing to [`bitcoin/bitcoin`](https://github.com/bitcoin/bitcoin) and [`braidpool`](https://github.com/braidpool/braidpool)
 
 **🌌 Physics Simulations**
 - [`Gravity_Simulation`](https://github.com/Edu92337/Gravity_Simulation) — N-body gravitational simulation
@@ -35,11 +34,13 @@ Building things in **competitive programming**, **blockchain**, **physics simula
 
 ### Tech Stack
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
 
 ---
 
