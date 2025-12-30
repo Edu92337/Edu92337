@@ -13,9 +13,9 @@ Building things in **competitive programming**, **blockchain**, **physics simula
 
 ### Featured Projects
 
-**⛓️ Blockchain**
-- [`Simple_Bitcoin_Implementation`](https://github.com/Edu92337/Simple_Bitcoin_Implementation) — Bitcoin protocol implementation from scratch in C++
-
+**🏆 Competitive Programming**
+- [`CodeForces`](https://github.com/Edu92337/CodeForces) — My Codeforces solutions in C++
+- 
 **🌌 Physics Simulations**
 - [`Gravity_Simulation`](https://github.com/Edu92337/Gravity_Simulation) — N-body gravitational simulation
 - [`Orbit-Simulation-Verlet-Method`](https://github.com/Edu92337/Orbit-Simulation-Verlet-Method) — Orbital mechanics using Verlet integration
@@ -27,8 +27,8 @@ Building things in **competitive programming**, **blockchain**, **physics simula
 - [`image_reconstruction_genetic_algorithm`](https://github.com/Edu92337/image_reconstruction_genetic_algorithm) — Image reconstruction using GA
 - [`Ant-Colony-Simulation`](https://github.com/Edu92337/Ant-Colony-Simulation) — Ant colony optimization
 
-**🏆 Competitive Programming**
-- [`CodeForces`](https://github.com/Edu92337/CodeForces) — My Codeforces solutions in C++
+**⛓️ Blockchain**
+- [`Simple_Bitcoin_Implementation`](https://github.com/Edu92337/Simple_Bitcoin_Implementation) — Bitcoin protocol implementation from scratch in C++
 
 ---
 
