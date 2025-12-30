@@ -32,18 +32,6 @@ Building things in **competitive programming**, **blockchain**, **physics simula
 
 ---
 
-### Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</p>
-
----
-
 <a href="https://github.com/edu92337">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edu92337&theme=tokyonight&show_icons=true&hide_border=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu92337&layout=compact&theme=tokyonight&hide_border=true" />
