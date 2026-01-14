@@ -1,13 +1,24 @@
 ![](https://komarev.com/ghpvc/?username=edu92337&color=006bed)
 
 # Eduardo Augusto
-
 Computer Engineering student at UFPB, Brazil.
-
 Building things in **competitive programming**, **blockchain**, **physics simulations**, **data**, and **AI**.
 
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/edu92337)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/edu92337/)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu92337&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu92337&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edu92337&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -33,18 +44,16 @@ Building things in **competitive programming**, **blockchain**, **physics simula
 ---
 
 ### Tech Stack
-
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 </p>
 
 ---
 
 ### Contact
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-augusto-almeida-lira-de-souza-73a53a332/)
 [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:eduz92337@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/edu92337?label=Follow&style=social)](https://github.com/edu92337)
