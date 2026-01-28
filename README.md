@@ -24,6 +24,7 @@ Building things in **competitive programming**, **blockchain**, **physics simula
 - [`ga-maze-solver`](https://github.com/Edu92337/ga-maze-solver) — Genetic algorithm maze solver
 - [`image_reconstruction_genetic_algorithm`](https://github.com/Edu92337/image_reconstruction_genetic_algorithm) — Image reconstruction using GA
 - [`Ant-Colony-Simulation`](https://github.com/Edu92337/Ant-Colony-Simulation) — Ant colony optimization
+- [`Neural-Network-Studies`](https://github.com/Edu92337/Neural-Networks-Studies) - Neural-Network-Studies
 
 **⛓️ Blockchain**
 - [`Simple_Bitcoin_Implementation`](https://github.com/Edu92337/Simple_Bitcoin_Implementation) — Bitcoin protocol implementation from scratch in C++
