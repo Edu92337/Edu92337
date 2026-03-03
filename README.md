@@ -2,7 +2,7 @@
 
 # Eduardo Augusto
 Computer Engineering student at UFPB, Brazil.
-Building things in **competitive programming**, **blockchain**, **physics simulations**, **data**, and **AI**.
+Building things in **competitive programming**, **blockchain**, **simulations**, **data**, and **AI**.
 
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/edu92337)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/edu92337/)
